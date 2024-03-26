@@ -7,6 +7,11 @@
 ## Content:
 - [Presentation](/Presentation/presentation.pdf)
 
+## Basic Connection Diagram
+![Connection Diagram](https://github.com/mrtaz77/MUCU-Microcontroller-Project/assets/113765142/32e1be06-0070-4abc-9f07-9726cfc7b311)
+
+*This was modified for later use based on code.
+
 ## Features:
 1. **Bluetooth Control**:
    - Precise movement control. 
